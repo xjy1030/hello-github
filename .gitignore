@@ -1,0 +1,14 @@
+# 编译出来的程序，机器生成的，不传
+*.exe
+*.o
+*.obj
+
+# Dev-C++ 的工程配置，换台电脑就失效，不传
+*.dev
+*.layout
+Makefile.win
+
+# Windows 自动生成的垃圾文件
+Thumbs.db
+desktop.ini
+添加 .gitignore, 排除编译产物
