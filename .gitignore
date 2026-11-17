@@ -11,4 +11,3 @@ Makefile.win
 # Windows 自动生成的垃圾文件
 Thumbs.db
 desktop.ini
-添加 .gitignore, 排除编译产物
